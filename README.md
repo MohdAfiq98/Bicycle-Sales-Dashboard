@@ -1,1 +1,2 @@
 # BicycleSalesDashboard
+A bicycle sales dashboard that compiles every information of bicycle sales transactions in period. The dashboard consists of findings including sales versus profit, bicycle sales by size and gender, total profit, profit margin, total revenues, profit by state, and all sales according to bicycle brands. There are several graphical illustrations have been used for this project including pie chart, cards, stacked area chart, tables, and maps.
